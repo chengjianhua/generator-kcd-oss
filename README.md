@@ -53,8 +53,8 @@ I referenced [@sindresorhus][sindresorhus]'s [module][generator-nm] heavily.
 Thanks goes to these people ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;"/><br /><sub>Jianhua Cheng</sub>](http://kent.doddsfamily.us)<br />[💻](https://github.com/chengjianhua/generator-cjh-oss/commits?author=chengjianhua "Code") [📖](https://github.com/chengjianhua/generator-cjh-oss/commits?author=chengjianhua "Documentation") [🚇](#infra-chengjianhua "Infrastructure (Hosting, Build-Tools, etc)") | [<img src="https://avatars0.githubusercontent.com/u/3415488?v=4" width="100px;"/><br /><sub>Anup</sub>](https://github.com/reznord)<br />[📖](https://github.com/chengjianhua/generator-cjh-oss/commits?author=reznord "Documentation") |
-| :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/10795207?v=3" width="100px;"/><br /><sub>Jianhua Cheng</sub>](https://chengjianhua.github.io)<br />[💻](https://github.com/chengjianhua/generator-cjh-oss/commits?author=chengjianhua "Code") [📖](https://github.com/chengjianhua/generator-cjh-oss/commits?author=chengjianhua "Documentation") [🚇](#infra-chengjianhua "Infrastructure (Hosting, Build-Tools, etc)") |
+| :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors][all-contributors] specification. Contributions of any kind welcome!
