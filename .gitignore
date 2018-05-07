@@ -4,3 +4,9 @@ dist
 .opt-in
 .opt-out
 
+.DS_Store
+*.log
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
